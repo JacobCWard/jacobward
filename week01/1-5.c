@@ -1,0 +1,1 @@
+//5.	Write a function that prints out if an integer is even or odd.  Test it on 4 different integers.

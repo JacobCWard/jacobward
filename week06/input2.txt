@@ -1,0 +1,9 @@
+Here is a simple file
+which has some numbers in it:
+The time is 10 o'clock.
+The year is 2014.
+This is the 9th month of the year.
+We are in the 6th week of class.
+A year has 365.25 days in it.
+My local phone number is 123-4567.
+With area code it is: 805-123-4567.

@@ -1,0 +1,13 @@
+   1	%{
+   2	int lineno = 0;
+   3	%}
+   4	line	^(.*)\n
+   5	%%
+   6	{line}		{fprintf(yyout,"%4d\t%s", ++lineno, yytext);}
+   7	%%
+   8	
+   9	int main (int argc, char *argv[]){
+  10		yyin = fopen(argv[1], "r");
+  11		yyout = fopen("output.txt", "w");
+  12		yylex();
+}

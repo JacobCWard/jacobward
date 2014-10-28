@@ -1,0 +1,1 @@
+//8.	Write and test a function that simulates the rolling of two dice.  It should take an integer n that determines how many times the dice are rolled then print a list showing the number of each possible outcome.

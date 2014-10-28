@@ -1,0 +1,1 @@
+//6.	Write and test a function that computes the distance between two points in 2D.

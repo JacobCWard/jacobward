@@ -1,0 +1,16 @@
+This is how you use lex:
+
+
+seanrobinson1@ELC310-21 ~/Week06
+$ flex phone_numbers.l
+
+seanrobinson1@ELC310-21 ~/Week06
+$ gcc lex.yy.c -o phone_numbers -L/lib -lfl
+
+seanrobinson1@ELC310-21 ~/Week06
+$ phone_numbers < input2.txt
+A local phone number was found: 123-4567
+A full length phone number was found: 805-123-4567
+
+seanrobinson1@ELC310-21 ~/Week06
+$
