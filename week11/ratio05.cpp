@@ -12,7 +12,7 @@ int main() {
     x.invert();
     cout << "1/x = "; x.print();
     cout << endl;
-    int g = x.gcd(1111, 2222);
+    int g = gcd(1111, 2222);
     cout << g << endl;
     x.setNum(1111);
     x.setDen(2222);
@@ -24,4 +24,8 @@ int main() {
 	Ratio y(x);
 	cout << "After using the copy constructor" << endl;
 	y.print();
+
+
+  cout << endl;
+  cout << "Testing non-member form of gcd: " << gcd(1234,5678) << endl;
 }
