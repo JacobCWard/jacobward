@@ -10,6 +10,7 @@ int main() {
     Ratio z(1,1);
     cout << "x = ";
     x.print();
+    cout << endl;
     cout << "y = ";
     y.print();
     cout << endl;

@@ -52,9 +52,11 @@ int Ratio::getDen(){
 }
 int Ratio::setNum(int n){
     num = n;
+    return 0;
 }
 int Ratio::setDen(int d){
     den = d;
+    return 0;
 }
 void Ratio::invert(){
     int temp = num;
