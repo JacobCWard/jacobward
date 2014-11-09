@@ -1,0 +1,1 @@
+/*    4.	Write a program that, given positive integer n from the console,        passes the array [1,...,n] to a function which computes the square of        each element and returns the result to the caller.*/

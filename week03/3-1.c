@@ -1,0 +1,1 @@
+/*    1.	Write a function which takes two integer arrays and returns “true”        if the two arrays have exactly the same elements.*/

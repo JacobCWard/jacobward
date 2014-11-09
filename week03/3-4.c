@@ -1,0 +1,1 @@
+/*    4.	Referring to the cplusplus documentation on the cmath library,        test drive these functions: cos, exp, log, pow, sqrt, ceil, floor.*/

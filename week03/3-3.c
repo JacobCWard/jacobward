@@ -1,0 +1,1 @@
+/*    3.	Write a program that leaks a lot of memory. It should be printing out how much        memory was used until it crashes.  How much memory was used before it crashed?*/

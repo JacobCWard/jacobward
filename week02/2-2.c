@@ -1,0 +1,1 @@
+/*    2.	Write a simple program that, given an integer n from the console,        creates a pointer to n, then carefully explains (via printf statements)        the difference between the pointer to n, the value of n, the & operator.*/

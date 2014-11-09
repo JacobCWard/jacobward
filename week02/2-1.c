@@ -1,0 +1,1 @@
+/*    1.	Write a program that, given positive integer n from the console, computes the        first n Fibonacci numbers (you probably don’t want a recursive algorithm).*/

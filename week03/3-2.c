@@ -1,0 +1,1 @@
+/*    2.	Write a word count macro.*/

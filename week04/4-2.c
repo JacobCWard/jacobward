@@ -1,0 +1,1 @@
+/*    2.	Write a program called “sum” that, when run from the command line sums        all the numbers listed, ex., sum 1 2 3 4 would give 10. (Hint: use the command atoi.)*/

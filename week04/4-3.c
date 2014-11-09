@@ -1,0 +1,1 @@
+/*    3.	Create and test a Student struct.  It should have        first name, last name, major and email address.*/
