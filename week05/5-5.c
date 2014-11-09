@@ -1,0 +1,1 @@
+/*    5.	Add code to the testppm program that automatically        opens your image in gimp after it is created.*/

@@ -1,0 +1,1 @@
+/*    2.	Implement and test a Point class for 3-D points.        It should store the x, y, z values of a point and have these methods:        negative(), norm()  i.e. its distance to the origin, print().*/

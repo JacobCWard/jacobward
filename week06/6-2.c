@@ -1,0 +1,1 @@
+/*    2.  Create 10 images: 5 zooming out and 5 zooming in, changing the scale        a factor of 4 each time.  Be sure to convert you ppm files to jpg or png.*/

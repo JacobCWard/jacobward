@@ -1,0 +1,1 @@
+/*    2.	Add code to the testppm program that automatically saves        the image data to a file with a ppm extension.*/

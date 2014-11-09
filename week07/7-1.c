@@ -1,0 +1,1 @@
+/*    1. Improve the wc lex specification to do the following:        -   explain what the ouput means        -   handle errors such as a non-existing file        -   Creates an output file (typed in at the command line) with detailed                info on the results of running this program.*/

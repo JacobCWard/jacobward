@@ -1,0 +1,1 @@
+/*    3.	Create two new different and interesting images.*/

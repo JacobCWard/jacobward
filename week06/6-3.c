@@ -1,0 +1,1 @@
+/*    3.	Write a flex specification that takes a file (like awmt.txt)        and trims all multiple space or tab characters but leaves        single spaces and writes this to a new file.*/

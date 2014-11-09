@@ -1,0 +1,1 @@
+/*    3. Demo five methods of the algorithm class not given in class.*/
