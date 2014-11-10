@@ -1,1 +1,0 @@
-/*    3.	Finish exercise 2 by explaining what the * operator does.*/
