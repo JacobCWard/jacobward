@@ -111,3 +111,8 @@ a
 gcc 1-2.c
 a
 exit
+ls
+cd week03
+ls
+gcc 3-3.c -o 3-3.exe
+exit
